@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[drag and drop]]>
+    </line>
+    <line>
+      <![CDATA[chrome  open]]>
+    </line>
+    <line>
+      <![CDATA[admin]]>
+    </line>
+    <line>
+      <![CDATA[admin123]]>
+    </line>
+    <line>
+      <![CDATA[open url]]>
+    </line>
+    <line>
+      <![CDATA[log in compleate]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[app close]]>
+    </line>
+    <line>
+      <![CDATA[chrome  open]]>
+    </line>
+    <line>
+      <![CDATA[open url]]>
+    </line>
+    <line>
+      <![CDATA[log in compleate]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[clicked to sub menu]]>
+    </line>
+    <line>
+      <![CDATA[added employee details]]>
+    </line>
+    <line>
+      <![CDATA[ open app]]>
+    </line>
+    <line>
+      <![CDATA[login compleate]]>
+    </line>
+    <line>
+      <![CDATA[del emp compleate]]>
+    </line>
+    <line>
+      <![CDATA[logout compleate]]>
+    </line>
+    <line>
+      <![CDATA[chrome  open]]>
+    </line>
+    <line>
+      <![CDATA[open url]]>
+    </line>
+    <line>
+      <![CDATA[log in compleate]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM]]>
+    </line>
+    <line>
+      <![CDATA[login compleate]]>
+    </line>
+    <line>
+      <![CDATA[add emp compleate]]>
+    </line>
+    <line>
+      <![CDATA[logout compleate]]>
+    </line>
+    <line>
+      <![CDATA[ close app]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[app close]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-21T11:59:59Z" name="Suite1" finished-at="2021-06-21T12:01:15Z" duration-ms="75482">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T11:59:59Z" name="naveen" finished-at="2021-06-21T12:01:15Z" duration-ms="75482">
+      <class name="com.TestNG_Example.testNG_annotations">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:30:58Z" name="openapp" finished-at="2021-06-21T17:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ open app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:30:58Z" name="login" finished-at="2021-06-21T17:30:58Z" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="delemp()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:30:58Z" name="delemp" finished-at="2021-06-21T17:30:58Z" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[del emp compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- delemp -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:30:58Z" name="logout" finished-at="2021-06-21T17:30:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="addemp()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:31:11Z" name="addemp" finished-at="2021-06-21T17:31:11Z" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[add emp compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addemp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:31:11Z" name="login" finished-at="2021-06-21T17:31:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:31:11Z" name="closeapp" finished-at="2021-06-21T17:31:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ close app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.TestNG_Example.testNG_annotations@273e7444]" started-at="2021-06-21T17:31:11Z" name="logout" finished-at="2021-06-21T17:31:11Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout compleate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.TestNG_Example.testNG_annotations -->
+      <class name="com.TestNG_Example.WD_TestNG">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.TestNG_Example.WD_TestNG@272113c4]" started-at="2021-06-21T17:30:58Z" name="startup" finished-at="2021-06-21T17:31:00Z" duration-ms="1313" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome  open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="tc001()[pri:0, instance:com.TestNG_Example.WD_TestNG@272113c4]" started-at="2021-06-21T17:31:00Z" name="tc001" finished-at="2021-06-21T17:31:11Z" duration-ms="10793" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open url]]>
+            </line>
+            <line>
+              <![CDATA[log in compleate]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method signature="logout()[pri:0, instance:com.TestNG_Example.WD_TestNG@272113c4]" started-at="2021-06-21T17:31:11Z" name="logout" finished-at="2021-06-21T17:31:15Z" duration-ms="4087" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG_Example.WD_TestNG@272113c4]" started-at="2021-06-21T17:31:15Z" name="teardown" finished-at="2021-06-21T17:31:15Z" duration-ms="92" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[app close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG_Example.WD_TestNG -->
+      <class name="com.TestNG_Example.Excel_WD_testNG">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.TestNG_Example.Excel_WD_testNG@53aac487]" started-at="2021-06-21T17:30:17Z" name="startup" finished-at="2021-06-21T17:30:19Z" duration-ms="1248" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome  open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="tc001()[pri:0, instance:com.TestNG_Example.Excel_WD_testNG@53aac487]" started-at="2021-06-21T17:30:19Z" name="tc001" finished-at="2021-06-21T17:30:40Z" duration-ms="21476" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[admin]]>
+            </line>
+            <line>
+              <![CDATA[admin123]]>
+            </line>
+            <line>
+              <![CDATA[open url]]>
+            </line>
+            <line>
+              <![CDATA[log in compleate]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG_Example.Excel_WD_testNG@53aac487]" started-at="2021-06-21T17:30:40Z" name="teardown" finished-at="2021-06-21T17:30:40Z" duration-ms="133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[app close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG_Example.Excel_WD_testNG -->
+      <class name="com.TestNG_Example.Drag_andDrop_testNG">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.TestNG_Example.Drag_andDrop_testNG@52b1beb6]" started-at="2021-06-21T17:29:59Z" name="login" finished-at="2021-06-21T17:30:01Z" duration-ms="1775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Drag_n_Drop()[pri:0, instance:com.TestNG_Example.Drag_andDrop_testNG@52b1beb6]" started-at="2021-06-21T17:30:01Z" name="Drag_n_Drop" finished-at="2021-06-21T17:30:17Z" duration-ms="15987" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[drag and drop]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Drag_n_Drop -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.TestNG_Example.Drag_andDrop_testNG@52b1beb6]" started-at="2021-06-21T17:30:17Z" name="close" finished-at="2021-06-21T17:30:17Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.TestNG_Example.Drag_andDrop_testNG -->
+      <class name="com.TestNG_Example.Screenshorts_testNG">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.TestNG_Example.Screenshorts_testNG@4b8ee4de]" started-at="2021-06-21T17:30:40Z" name="startup" finished-at="2021-06-21T17:30:41Z" duration-ms="1170" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome  open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="login()[pri:0, instance:com.TestNG_Example.Screenshorts_testNG@4b8ee4de]" started-at="2021-06-21T17:30:41Z" name="login" finished-at="2021-06-21T17:30:58Z" duration-ms="17079" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open url]]>
+            </line>
+            <line>
+              <![CDATA[log in compleate]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM]]>
+            </line>
+            <line>
+              <![CDATA[clicked to sub menu]]>
+            </line>
+            <line>
+              <![CDATA[added employee details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:0, instance:com.TestNG_Example.Screenshorts_testNG@4b8ee4de]" started-at="2021-06-21T17:31:11Z" name="logout" finished-at="2021-06-21T17:31:11Z" duration-ms="33" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-D7J7JNH', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-D7J7JNH', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at com.TestNG_Example.Screenshorts_testNG.logout(Screenshorts_testNG.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG_Example.Screenshorts_testNG@4b8ee4de]" started-at="2021-06-21T17:31:11Z" name="teardown" finished-at="2021-06-21T17:31:11Z" duration-ms="0" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-D7J7JNH', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-D7J7JNH', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
+	at com.TestNG_Example.Screenshorts_testNG.teardown(Screenshorts_testNG.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:225)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:114)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG_Example.Screenshorts_testNG -->
+    </test> <!-- naveen -->
+  </suite> <!-- Suite1 -->
+</testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite1]">
+  <test parallel="none" name="naveen(failed)">
+    <classes>
+      <class name="com.TestNG_Example.Screenshorts_testNG">
+        <methods>
+          <include name="teardown"/>
+          <include name="startup"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- com.TestNG_Example.Screenshorts_testNG -->
+      <class name="com.TestNG_Example.Excel_WD_testNG">
+        <methods>
+          <include name="teardown"/>
+          <include name="startup"/>
+        </methods>
+      </class> <!-- com.TestNG_Example.Excel_WD_testNG -->
+      <class name="com.TestNG_Example.Drag_andDrop_testNG">
+        <methods>
+          <include name="login"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.TestNG_Example.Drag_andDrop_testNG -->
+      <class name="com.TestNG_Example.testNG_annotations">
+        <methods>
+          <include name="logout"/>
+          <include name="openapp"/>
+          <include name="closeapp"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.TestNG_Example.testNG_annotations -->
+      <class name="com.TestNG_Example.WD_TestNG">
+        <methods>
+          <include name="teardown"/>
+          <include name="startup"/>
+        </methods>
+      </class> <!-- com.TestNG_Example.WD_TestNG -->
+    </classes>
+  </test> <!-- naveen(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
